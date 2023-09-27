@@ -1,5 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
+import os
+from google.oauth2 import service_account
+from googleapiclient.discovery import build
 import pandas as pd
 
 def digitleft(str) :
@@ -12,9 +15,19 @@ def digitleft(str) :
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
 }
+creds = None
+SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
+creds_file = 'stoked-woods-400307-ca98d32d3085.json'  # Replace with your credentials JSON file
+if os.path.exists(creds_file):
+    creds = service_account.Credentials.from_service_account_file(creds_file, scopes=SCOPES)
+service = build('sheets', 'v4', credentials=creds)
+spreadsheet_id = '1ixexWYv2zIZn0Fc0RfIXhY7rGn5UsolaFWCKRA8isJc'
+
+datasheet = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range='boardgamerank!A1:B20').execute()['values']
 list=[]
-for i in range(10) :
-    url = "https://boardgamegeek.com/boardgame/"+str(i+1)
+
+for i in datasheet :
+    url = "https://boardgamegeek.com/boardgame/"+ ''.join(i)
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
     
@@ -29,28 +42,26 @@ for i in range(10) :
 
     error = soup.find('div',class_='messagebox error')
     if not error :
+        game_title = soup.find("meta", property="og:title")["content"]
         keyvote_index = datastat.find(keyvote)
+        keyweight_index = datastat.find(keyweight)
+        keyminplayer_index = datastat.find(keyminplayer)
+        keymaxplayer_index = datastat.find(keymaxplayer)
+        keyplaytime_index = datastat.find(keyplaytime)
         game_keyvote = digitleft(datastat[keyvote_index + len(keyvote):keyvote_index + len(keyvote) + 10])
+        game_weight = digitleft(datastat[keyweight_index + len(keyweight):keyweight_index + len(keyweight) + 10])
+        game_minplayer = digitleft(datastat[keyminplayer_index + len(keyminplayer):keyminplayer_index + len(keyminplayer) + 10])
+        game_maxplayer = digitleft(datastat[keymaxplayer_index + len(keymaxplayer):keymaxplayer_index + len(keymaxplayer) + 10])
+        game_playtime = digitleft(datastat[keyplaytime_index + len(keyplaytime):keyplaytime_index + len(keyplaytime) + 10])
 
-        if int(game_keyvote) >= 50 :
-            game_title = soup.find("meta", property="og:title")["content"]
-            keyweight_index = datastat.find(keyweight)
-            keyminplayer_index = datastat.find(keyminplayer)
-            keymaxplayer_index = datastat.find(keymaxplayer)
-            keyplaytime_index = datastat.find(keyplaytime)
-            game_weight = digitleft(datastat[keyweight_index + len(keyweight):keyweight_index + len(keyweight) + 10])
-            game_minplayer = digitleft(datastat[keyminplayer_index + len(keyminplayer):keyminplayer_index + len(keyminplayer) + 10])
-            game_maxplayer = digitleft(datastat[keymaxplayer_index + len(keymaxplayer):keymaxplayer_index + len(keymaxplayer) + 10])
-            game_playtime = digitleft(datastat[keyplaytime_index + len(keyplaytime):keyplaytime_index + len(keyplaytime) + 10])
-
-            data = {
-                "Title": game_title,
-                "Weight": float(game_weight)*100,
-                "Min player": game_minplayer,
-                "Max player": game_maxplayer,
-                "Play time":game_playtime
-            }
-            list.append(data)
+        data = {
+            "Title": game_title,
+            "Weight": float(game_weight)*100,
+            "Min player": game_minplayer,
+            "Max player": game_maxplayer,
+            "Play time":game_playtime
+        }
+        list.append(data)
 
 df = pd.DataFrame(list)
 
