@@ -22,14 +22,16 @@ if os.path.exists(creds_file):
 service = build('sheets', 'v4', credentials=creds)
 spreadsheet_id = '1ixexWYv2zIZn0Fc0RfIXhY7rGn5UsolaFWCKRA8isJc'
 
-f=179
+f=254
 datasheet = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range=f'boardgamerank!A{f}:B500').execute()['values']
 list=[]
+
 
 for i in datasheet :
     url = "https://boardgamegeek.com/boardgame/"+ '/'.join(i)
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
+    print(str(soup))
     
     keyweight = '"avgweight":"'
     keyminplayer = '"minplayers":"'
@@ -54,7 +56,7 @@ for i in datasheet :
         game_maxplayer = digitleft(datastat[keymaxplayer_index + len(keymaxplayer):keymaxplayer_index + len(keymaxplayer) + 10])
         game_playtime = digitleft(datastat[keyplaytime_index + len(keyplaytime):keyplaytime_index + len(keyplaytime) + 10])
 
-        data = [[game_title,str(float(game_weight)*100),game_minplayer,game_maxplayer,game_playtime]]
+        data = [[game_title,float(game_weight)*100,int(game_minplayer),int(game_maxplayer),int(game_playtime)]]
 
         request = service.spreadsheets().values().update(spreadsheetId=spreadsheet_id, range=f'boardgame!A{f+1}:E{f+1}', valueInputOption="RAW", body={"values": data})
         response = request.execute()
