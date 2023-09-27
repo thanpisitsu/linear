@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import os
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
-import pandas as pd
 
 def digitleft(str) :
     while not str[-1].isdigit() :
@@ -23,11 +22,12 @@ if os.path.exists(creds_file):
 service = build('sheets', 'v4', credentials=creds)
 spreadsheet_id = '1ixexWYv2zIZn0Fc0RfIXhY7rGn5UsolaFWCKRA8isJc'
 
-datasheet = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range='boardgamerank!A1:B20').execute()['values']
+f=179
+datasheet = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range=f'boardgamerank!A{f}:B500').execute()['values']
 list=[]
 
 for i in datasheet :
-    url = "https://boardgamegeek.com/boardgame/"+ ''.join(i)
+    url = "https://boardgamegeek.com/boardgame/"+ '/'.join(i)
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
     
@@ -54,15 +54,8 @@ for i in datasheet :
         game_maxplayer = digitleft(datastat[keymaxplayer_index + len(keymaxplayer):keymaxplayer_index + len(keymaxplayer) + 10])
         game_playtime = digitleft(datastat[keyplaytime_index + len(keyplaytime):keyplaytime_index + len(keyplaytime) + 10])
 
-        data = {
-            "Title": game_title,
-            "Weight": float(game_weight)*100,
-            "Min player": game_minplayer,
-            "Max player": game_maxplayer,
-            "Play time":game_playtime
-        }
-        list.append(data)
+        data = [[game_title,str(float(game_weight)*100),game_minplayer,game_maxplayer,game_playtime]]
 
-df = pd.DataFrame(list)
-
-print(df)
+        request = service.spreadsheets().values().update(spreadsheetId=spreadsheet_id, range=f'boardgame!A{f+1}:E{f+1}', valueInputOption="RAW", body={"values": data})
+        response = request.execute()
+        f+=1

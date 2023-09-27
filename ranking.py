@@ -26,10 +26,9 @@ for i in range(1) :
         href = anchor.get("href")
         href = href.split('/')
         data.append(href[2:])
+    print(data)
     range_name = f'boardgamerank!A{i*100+1}:B{(i+1)*100}'
-    request = service.spreadsheets().values().update(spreadsheetId=spreadsheet_id, range=range_name, valueInputOption="RAW", body={"values": data})
-    response = request.execute()
-    datasheet = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range='boardgamerank!A1:C2').execute()
+    request = service.spreadsheets().values().update(spreadsheetId=spreadsheet_id, range=range_name, valueInputOption="RAW", body={"values": data}).execute()
 
 
 
