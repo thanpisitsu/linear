@@ -17,6 +17,7 @@ for i in range(10) :
     url = "https://boardgamegeek.com/boardgame/"+str(i+1)
     response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
+    
     keyweight = '"avgweight":"'
     keyminplayer = '"minplayers":"'
     keymaxplayer = '"maxplayers":"'
@@ -36,14 +37,18 @@ for i in range(10) :
             keyweight_index = datastat.find(keyweight)
             keyminplayer_index = datastat.find(keyminplayer)
             keymaxplayer_index = datastat.find(keymaxplayer)
+            keyplaytime_index = datastat.find(keyplaytime)
             game_weight = digitleft(datastat[keyweight_index + len(keyweight):keyweight_index + len(keyweight) + 10])
             game_minplayer = digitleft(datastat[keyminplayer_index + len(keyminplayer):keyminplayer_index + len(keyminplayer) + 10])
             game_maxplayer = digitleft(datastat[keymaxplayer_index + len(keymaxplayer):keymaxplayer_index + len(keymaxplayer) + 10])
+            game_playtime = digitleft(datastat[keyplaytime_index + len(keyplaytime):keyplaytime_index + len(keyplaytime) + 10])
+
             data = {
                 "Title": game_title,
                 "Weight": float(game_weight)*100,
                 "Min player": game_minplayer,
-                "Max player": game_maxplayer
+                "Max player": game_maxplayer,
+                "Play time":game_playtime
             }
             list.append(data)
 
