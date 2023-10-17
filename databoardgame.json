@@ -1,0 +1,3994 @@
+[
+    {
+        "Name": "Brass: Birmingham",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "389",
+        "Time": "120"
+    },
+    {
+        "Name": "Pandemic Legacy: Season 1",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "283",
+        "Time": "60"
+    },
+    {
+        "Name": "Gloomhaven",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "390",
+        "Time": "120"
+    },
+    {
+        "Name": "Ark Nova",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "373",
+        "Time": "150"
+    },
+    {
+        "Name": "Twilight Imperium: Fourth Edition",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "6",
+        "Weight": "430",
+        "Time": "480"
+    },
+    {
+        "Name": "Terraforming Mars",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "326",
+        "Time": "120"
+    },
+    {
+        "Name": "Dune: Imperium",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "303",
+        "Time": "120"
+    },
+    {
+        "Name": "Gloomhaven: Jaws of the Lion",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "363",
+        "Time": "120"
+    },
+    {
+        "Name": "War of the Ring: Second Edition",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "420",
+        "Time": "180"
+    },
+    {
+        "Name": "Star Wars: Rebellion",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "374",
+        "Time": "240"
+    },
+    {
+        "Name": "Spirit Island",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "406",
+        "Time": "120"
+    },
+    {
+        "Name": "Gaia Project",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "440",
+        "Time": "150"
+    },
+    {
+        "Name": "Through the Ages: A New Story of Civilization",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "443",
+        "Time": "120"
+    },
+    {
+        "Name": "Twilight Struggle",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "360",
+        "Time": "180"
+    },
+    {
+        "Name": "Great Western Trail",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "371",
+        "Time": "150"
+    },
+    {
+        "Name": "Scythe",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "344",
+        "Time": "115"
+    },
+    {
+        "Name": "The Castles of Burgundy",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "299",
+        "Time": "90"
+    },
+    {
+        "Name": "7 Wonders Duel",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "223",
+        "Time": "30"
+    },
+    {
+        "Name": "Eclipse: Second Dawn for the Galaxy",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "365",
+        "Time": "200"
+    },
+    {
+        "Name": "Nemesis",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "344",
+        "Time": "180"
+    },
+    {
+        "Name": "Brass: Lancashire",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "386",
+        "Time": "120"
+    },
+    {
+        "Name": "Concordia",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "300",
+        "Time": "100"
+    },
+    {
+        "Name": "A Feast for Odin",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "386",
+        "Time": "120"
+    },
+    {
+        "Name": "Clank! Legacy: Acquisitions Incorporated",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "273",
+        "Time": "120"
+    },
+    {
+        "Name": "Wingspan",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "246",
+        "Time": "70"
+    },
+    {
+        "Name": "Terra Mystica",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "397",
+        "Time": "150"
+    },
+    {
+        "Name": "Arkham Horror: The Card Game",
+        "Type": "cgs",
+        "Minplayer": "1",
+        "Maxplayer": "2",
+        "Weight": "353",
+        "Time": "120"
+    },
+    {
+        "Name": "Lost Ruins of Arnak",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "290",
+        "Time": "120"
+    },
+    {
+        "Name": "Root",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "378",
+        "Time": "90"
+    },
+    {
+        "Name": "Orl\u00e9ans",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "303",
+        "Time": "90"
+    },
+    {
+        "Name": "Great Western Trail (Second Edition)",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "372",
+        "Time": "150"
+    },
+    {
+        "Name": "Everdell",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "281",
+        "Time": "80"
+    },
+    {
+        "Name": "Mage Knight Board Game",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "435",
+        "Time": "240"
+    },
+    {
+        "Name": "Viticulture Essential Edition",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "289",
+        "Time": "90"
+    },
+    {
+        "Name": "Barrage",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "410",
+        "Time": "120"
+    },
+    {
+        "Name": "The Crew: Mission Deep Sea",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "203",
+        "Time": "20"
+    },
+    {
+        "Name": "Too Many Bones",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "385",
+        "Time": "120"
+    },
+    {
+        "Name": "Food Chain Magnate",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "421",
+        "Time": "240"
+    },
+    {
+        "Name": "Pax Pamir: Second Edition",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "384",
+        "Time": "120"
+    },
+    {
+        "Name": "Marvel Champions: The Card Game",
+        "Type": "cgs",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "292",
+        "Time": "90"
+    },
+    {
+        "Name": "Puerto Rico",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "327",
+        "Time": "150"
+    },
+    {
+        "Name": "Underwater Cities",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "361",
+        "Time": "150"
+    },
+    {
+        "Name": "Caverna: The Cave Farmers",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "7",
+        "Weight": "378",
+        "Time": "210"
+    },
+    {
+        "Name": "Blood Rage",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "287",
+        "Time": "90"
+    },
+    {
+        "Name": "Anachrony",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "402",
+        "Time": "120"
+    },
+    {
+        "Name": "Cascadia",
+        "Type": "abstracts",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "184",
+        "Time": "45"
+    },
+    {
+        "Name": "Agricola",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "364",
+        "Time": "150"
+    },
+    {
+        "Name": "On Mars",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "467",
+        "Time": "150"
+    },
+    {
+        "Name": "Crokinole",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "123",
+        "Time": "30"
+    },
+    {
+        "Name": "Pandemic Legacy: Season 0",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "314",
+        "Time": "60"
+    },
+    {
+        "Name": "Pandemic Legacy: Season 2",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "325",
+        "Time": "60"
+    },
+    {
+        "Name": "Kanban EV",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "432",
+        "Time": "180"
+    },
+    {
+        "Name": "Mansions of Madness: Second Edition",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "267",
+        "Time": "180"
+    },
+    {
+        "Name": "Sleeping Gods",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "323",
+        "Time": "1200"
+    },
+    {
+        "Name": "Maracaibo",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "391",
+        "Time": "120"
+    },
+    {
+        "Name": "Lisboa",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "459",
+        "Time": "120"
+    },
+    {
+        "Name": "Frosthaven",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "432",
+        "Time": "120"
+    },
+    {
+        "Name": "Tzolk'in: The Mayan Calendar",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "367",
+        "Time": "90"
+    },
+    {
+        "Name": "Power Grid",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "326",
+        "Time": "120"
+    },
+    {
+        "Name": "Heat: Pedal to the Metal",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "217",
+        "Time": "60"
+    },
+    {
+        "Name": "The Quacks of Quedlinburg",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "195",
+        "Time": "45"
+    },
+    {
+        "Name": "Clans of Caledonia",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "346",
+        "Time": "120"
+    },
+    {
+        "Name": "The Crew: The Quest for Planet Nine",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "196",
+        "Time": "20"
+    },
+    {
+        "Name": "Paladins of the West Kingdom",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "371",
+        "Time": "120"
+    },
+    {
+        "Name": "Le Havre",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "373",
+        "Time": "150"
+    },
+    {
+        "Name": "The Gallerist",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "426",
+        "Time": "150"
+    },
+    {
+        "Name": "Star Wars: Imperial Assault",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "330",
+        "Time": "120"
+    },
+    {
+        "Name": "Mechs vs. Minions",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "243",
+        "Time": "120"
+    },
+    {
+        "Name": "Grand Austria Hotel",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "322",
+        "Time": "120"
+    },
+    {
+        "Name": "Kingdom Death: Monster",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "427",
+        "Time": "180"
+    },
+    {
+        "Name": "Android: Netrunner",
+        "Type": "cgs",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "340",
+        "Time": "45"
+    },
+    {
+        "Name": "Cthulhu: Death May Die",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "245",
+        "Time": "120"
+    },
+    {
+        "Name": "Azul",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "176",
+        "Time": "45"
+    },
+    {
+        "Name": "Race for the Galaxy",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "299",
+        "Time": "60"
+    },
+    {
+        "Name": "Agricola (Revised Edition)",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "347",
+        "Time": "120"
+    },
+    {
+        "Name": "Aeon's End",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "280",
+        "Time": "60"
+    },
+    {
+        "Name": "Eclipse: New Dawn for the Galaxy",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "370",
+        "Time": "180"
+    },
+    {
+        "Name": "Five Tribes",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "285",
+        "Time": "80"
+    },
+    {
+        "Name": "Clank!: A Deck-Building Adventure",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "222",
+        "Time": "60"
+    },
+    {
+        "Name": "Fields of Arle",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "2",
+        "Weight": "386",
+        "Time": "120"
+    },
+    {
+        "Name": "Through the Ages: A Story of Civilization",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "417",
+        "Time": "120"
+    },
+    {
+        "Name": "Teotihuacan: City of Gods",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "378",
+        "Time": "120"
+    },
+    {
+        "Name": "Lords of Waterdeep",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "245",
+        "Time": "120"
+    },
+    {
+        "Name": "Beyond the Sun",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "313",
+        "Time": "120"
+    },
+    {
+        "Name": "Obsession",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "311",
+        "Time": "90"
+    },
+    {
+        "Name": "The Voyages of Marco Polo",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "319",
+        "Time": "100"
+    },
+    {
+        "Name": "Robinson Crusoe: Adventures on the Cursed Island",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "381",
+        "Time": "120"
+    },
+    {
+        "Name": "Dominant Species",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "404",
+        "Time": "240"
+    },
+    {
+        "Name": "7 Wonders",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "7",
+        "Weight": "232",
+        "Time": "30"
+    },
+    {
+        "Name": "Tainted Grail: The Fall of Avalon",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "334",
+        "Time": "120"
+    },
+    {
+        "Name": "The Search for Planet X",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "237",
+        "Time": "75"
+    },
+    {
+        "Name": "The 7th Continent",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "290",
+        "Time": "1000"
+    },
+    {
+        "Name": "Architects of the West Kingdom",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "275",
+        "Time": "80"
+    },
+    {
+        "Name": "El Grande",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "304",
+        "Time": "120"
+    },
+    {
+        "Name": "Battlestar Galactica: The Board Game",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "6",
+        "Weight": "325",
+        "Time": "180"
+    },
+    {
+        "Name": "Keyflower",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "334",
+        "Time": "120"
+    },
+    {
+        "Name": "Decrypto",
+        "Type": "partygames",
+        "Minplayer": "3",
+        "Maxplayer": "8",
+        "Weight": "181",
+        "Time": "45"
+    },
+    {
+        "Name": "Inis",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "289",
+        "Time": "90"
+    },
+    {
+        "Name": "Caylus",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "380",
+        "Time": "150"
+    },
+    {
+        "Name": "Raiders of the North Sea",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "255",
+        "Time": "80"
+    },
+    {
+        "Name": "Mombasa",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "390",
+        "Time": "150"
+    },
+    {
+        "Name": "Dominion: Intrigue",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "241",
+        "Time": "30"
+    },
+    {
+        "Name": "Trickerion: Legends of Illusion",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "425",
+        "Time": "180"
+    },
+    {
+        "Name": "Tigris & Euphrates",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "350",
+        "Time": "90"
+    },
+    {
+        "Name": "Troyes",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "346",
+        "Time": "90"
+    },
+    {
+        "Name": "Lorenzo il Magnifico",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "329",
+        "Time": "120"
+    },
+    {
+        "Name": "Eldritch Horror",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "8",
+        "Weight": "332",
+        "Time": "240"
+    },
+    {
+        "Name": "The Lord of the Rings: Journeys in Middle-Earth",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "265",
+        "Time": "120"
+    },
+    {
+        "Name": "Twilight Imperium: Third Edition",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "6",
+        "Weight": "426",
+        "Time": "240"
+    },
+    {
+        "Name": "Russian Railroads",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "340",
+        "Time": "120"
+    },
+    {
+        "Name": "Patchwork",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "161",
+        "Time": "30"
+    },
+    {
+        "Name": "Concordia Venus",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "303",
+        "Time": "120"
+    },
+    {
+        "Name": "Trajan",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "365",
+        "Time": "120"
+    },
+    {
+        "Name": "Rising Sun",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "330",
+        "Time": "120"
+    },
+    {
+        "Name": "Aeon's End: War Eternal",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "292",
+        "Time": "60"
+    },
+    {
+        "Name": "Dominion",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "235",
+        "Time": "30"
+    },
+    {
+        "Name": "Carnegie",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "383",
+        "Time": "120"
+    },
+    {
+        "Name": "The Isle of Cats",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "235",
+        "Time": "90"
+    },
+    {
+        "Name": "Clank! In! Space!: A Deck-Building Adventure",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "256",
+        "Time": "90"
+    },
+    {
+        "Name": "Age of Steam",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "388",
+        "Time": "120"
+    },
+    {
+        "Name": "Vinhos: Deluxe Edition",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "402",
+        "Time": "135"
+    },
+    {
+        "Name": "Pandemic: Iberia",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "257",
+        "Time": "45"
+    },
+    {
+        "Name": "Hansa Teutonica",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "310",
+        "Time": "90"
+    },
+    {
+        "Name": "Codenames",
+        "Type": "partygames",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "127",
+        "Time": "15"
+    },
+    {
+        "Name": "The Quest for El Dorado",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "193",
+        "Time": "60"
+    },
+    {
+        "Name": "Yokohama",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "331",
+        "Time": "90"
+    },
+    {
+        "Name": "Champions of Midgard",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "260",
+        "Time": "90"
+    },
+    {
+        "Name": "Forbidden Stars",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "383",
+        "Time": "180"
+    },
+    {
+        "Name": "Roll for the Galaxy",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "278",
+        "Time": "45"
+    },
+    {
+        "Name": "PARKS",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "214",
+        "Time": "60"
+    },
+    {
+        "Name": "Cartographers",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "100",
+        "Weight": "188",
+        "Time": "45"
+    },
+    {
+        "Name": "Dwellings of Eldervale",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "326",
+        "Time": "150"
+    },
+    {
+        "Name": "Pandemic",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "240",
+        "Time": "45"
+    },
+    {
+        "Name": "Res Arcana",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "263",
+        "Time": "60"
+    },
+    {
+        "Name": "Targi",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "234",
+        "Time": "60"
+    },
+    {
+        "Name": "Kemet",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "300",
+        "Time": "120"
+    },
+    {
+        "Name": "Watergate",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "226",
+        "Time": "60"
+    },
+    {
+        "Name": "Alchemists",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "393",
+        "Time": "120"
+    },
+    {
+        "Name": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "8",
+        "Weight": "268",
+        "Time": "120"
+    },
+    {
+        "Name": "Praga Caput Regni",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "375",
+        "Time": "150"
+    },
+    {
+        "Name": "Rajas of the Ganges",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "289",
+        "Time": "75"
+    },
+    {
+        "Name": "Star Realms",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "193",
+        "Time": "20"
+    },
+    {
+        "Name": "Endeavor: Age of Sail",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "285",
+        "Time": "90"
+    },
+    {
+        "Name": "Just One",
+        "Type": "partygames",
+        "Minplayer": "3",
+        "Maxplayer": "7",
+        "Weight": "104",
+        "Time": "60"
+    },
+    {
+        "Name": "It's a Wonderful World",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "231",
+        "Time": "60"
+    },
+    {
+        "Name": "Hadrian's Wall",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "311",
+        "Time": "60"
+    },
+    {
+        "Name": "Stone Age",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "246",
+        "Time": "90"
+    },
+    {
+        "Name": "Legendary Encounters: An Alien Deck Building Game",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "270",
+        "Time": "60"
+    },
+    {
+        "Name": "Ticket to Ride: Europe",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "192",
+        "Time": "60"
+    },
+    {
+        "Name": "Terraforming Mars: Ares Expedition",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "291",
+        "Time": "60"
+    },
+    {
+        "Name": "Ra",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "234",
+        "Time": "60"
+    },
+    {
+        "Name": "The Lord of the Rings: The Card Game",
+        "Type": "cgs",
+        "Minplayer": "1",
+        "Maxplayer": "2",
+        "Weight": "321",
+        "Time": "60"
+    },
+    {
+        "Name": "Marco Polo II: In the Service of the Khan",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "338",
+        "Time": "120"
+    },
+    {
+        "Name": "Star Wars: X-Wing Miniatures Game",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "249",
+        "Time": "45"
+    },
+    {
+        "Name": "Viscounts of the West Kingdom",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "346",
+        "Time": "90"
+    },
+    {
+        "Name": "Istanbul",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "258",
+        "Time": "60"
+    },
+    {
+        "Name": "Magic: The Gathering",
+        "Type": "cgs",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "325",
+        "Time": "20"
+    },
+    {
+        "Name": "Welcome To...",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "100",
+        "Weight": "183",
+        "Time": "25"
+    },
+    {
+        "Name": "Glen More II: Chronicles",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "303",
+        "Time": "120"
+    },
+    {
+        "Name": "Xia: Legends of a Drift System",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "319",
+        "Time": "180"
+    },
+    {
+        "Name": "That's Pretty Clever!",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "187",
+        "Time": "30"
+    },
+    {
+        "Name": "Tyrants of the Underdark",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "254",
+        "Time": "60"
+    },
+    {
+        "Name": "Undaunted: Normandy",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "226",
+        "Time": "60"
+    },
+    {
+        "Name": "SCOUT",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "137",
+        "Time": "15"
+    },
+    {
+        "Name": "Chaos in the Old World",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "4",
+        "Weight": "320",
+        "Time": "120"
+    },
+    {
+        "Name": "Jaipur",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "147",
+        "Time": "30"
+    },
+    {
+        "Name": "War Chest",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "230",
+        "Time": "30"
+    },
+    {
+        "Name": "War of the Ring",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "384",
+        "Time": "120"
+    },
+    {
+        "Name": "Radlands",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "225",
+        "Time": "40"
+    },
+    {
+        "Name": "Descent: Journeys in the Dark (Second Edition)",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "321",
+        "Time": "120"
+    },
+    {
+        "Name": "This War of Mine: The Board Game",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "330",
+        "Time": "120"
+    },
+    {
+        "Name": "Azul: Summer Pavilion",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "205",
+        "Time": "45"
+    },
+    {
+        "Name": "Dominion (Second Edition)",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "216",
+        "Time": "30"
+    },
+    {
+        "Name": "Memoir '44",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "228",
+        "Time": "60"
+    },
+    {
+        "Name": "Horrified",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "205",
+        "Time": "60"
+    },
+    {
+        "Name": "Cosmic Encounter",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "258",
+        "Time": "120"
+    },
+    {
+        "Name": "Railways of the World",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "302",
+        "Time": "120"
+    },
+    {
+        "Name": "Unmatched: Cobble & Fog",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "197",
+        "Time": "40"
+    },
+    {
+        "Name": "Castles of Mad King Ludwig",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "265",
+        "Time": "90"
+    },
+    {
+        "Name": "The Resistance: Avalon",
+        "Type": "partygames",
+        "Minplayer": "5",
+        "Maxplayer": "10",
+        "Weight": "174",
+        "Time": "30"
+    },
+    {
+        "Name": "Splendor Duel",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "198",
+        "Time": "30"
+    },
+    {
+        "Name": "Sagrada",
+        "Type": "abstracts",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "192",
+        "Time": "45"
+    },
+    {
+        "Name": "Ora et Labora",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "389",
+        "Time": "180"
+    },
+    {
+        "Name": "Sekigahara: The Unification of Japan",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "279",
+        "Time": "180"
+    },
+    {
+        "Name": "Too Many Bones: Undertow",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "2",
+        "Weight": "401",
+        "Time": "180"
+    },
+    {
+        "Name": "Nemesis: Lockdown",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "389",
+        "Time": "180"
+    },
+    {
+        "Name": "A Game of Thrones: The Board Game (Second Edition)",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "6",
+        "Weight": "372",
+        "Time": "240"
+    },
+    {
+        "Name": "Ticket to Ride: Nordic Countries",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "3",
+        "Weight": "198",
+        "Time": "60"
+    },
+    {
+        "Name": "Dune",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "399",
+        "Time": "180"
+    },
+    {
+        "Name": "The Red Cathedral",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "282",
+        "Time": "80"
+    },
+    {
+        "Name": "Dead of Winter: A Crossroads Game",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "301",
+        "Time": "120"
+    },
+    {
+        "Name": "Suburbia",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "277",
+        "Time": "90"
+    },
+    {
+        "Name": "Commands & Colors: Ancients",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "269",
+        "Time": "60"
+    },
+    {
+        "Name": "Space Base",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "212",
+        "Time": "60"
+    },
+    {
+        "Name": "Star Wars: Outer Rim",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "252",
+        "Time": "180"
+    },
+    {
+        "Name": "Village",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "307",
+        "Time": "90"
+    },
+    {
+        "Name": "Captain Sonar",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "218",
+        "Time": "60"
+    },
+    {
+        "Name": "Go",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "393",
+        "Time": "180"
+    },
+    {
+        "Name": "Earth",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "287",
+        "Time": "90"
+    },
+    {
+        "Name": "Paleo",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "263",
+        "Time": "60"
+    },
+    {
+        "Name": "Final Girl",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "1",
+        "Weight": "257",
+        "Time": "60"
+    },
+    {
+        "Name": "Meadow",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "223",
+        "Time": "90"
+    },
+    {
+        "Name": "Splendor",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "178",
+        "Time": "30"
+    },
+    {
+        "Name": "Star Realms: Colony Wars",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "190",
+        "Time": "20"
+    },
+    {
+        "Name": "Tichu",
+        "Type": "strategygames",
+        "Minplayer": "4",
+        "Maxplayer": "4",
+        "Weight": "234",
+        "Time": "60"
+    },
+    {
+        "Name": "Dinosaur Island",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "303",
+        "Time": "120"
+    },
+    {
+        "Name": "Coimbra",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "325",
+        "Time": "90"
+    },
+    {
+        "Name": "Near and Far",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "289",
+        "Time": "120"
+    },
+    {
+        "Name": "Combat Commander: Europe",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "325",
+        "Time": "180"
+    },
+    {
+        "Name": "Carcassonne",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "190",
+        "Time": "45"
+    },
+    {
+        "Name": "Modern Art",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "229",
+        "Time": "45"
+    },
+    {
+        "Name": "Nations",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "355",
+        "Time": "200"
+    },
+    {
+        "Name": "Under Falling Skies",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "1",
+        "Weight": "239",
+        "Time": "40"
+    },
+    {
+        "Name": "Calico",
+        "Type": "abstracts",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "218",
+        "Time": "45"
+    },
+    {
+        "Name": "Ankh: Gods of Egypt",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "309",
+        "Time": "90"
+    },
+    {
+        "Name": "Nidavellir",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "210",
+        "Time": "45"
+    },
+    {
+        "Name": "Paths of Glory",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "385",
+        "Time": "480"
+    },
+    {
+        "Name": "Welcome to the Moon",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "250",
+        "Time": "30"
+    },
+    {
+        "Name": "YINSH",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "266",
+        "Time": "60"
+    },
+    {
+        "Name": "My City",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "199",
+        "Time": "30"
+    },
+    {
+        "Name": "Ticket to Ride",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "183",
+        "Time": "60"
+    },
+    {
+        "Name": "Cyclades",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "282",
+        "Time": "90"
+    },
+    {
+        "Name": "Wingspan Asia",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "2",
+        "Weight": "262",
+        "Time": "70"
+    },
+    {
+        "Name": "La Granja",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "357",
+        "Time": "120"
+    },
+    {
+        "Name": "Codenames: Duet",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "136",
+        "Time": "30"
+    },
+    {
+        "Name": "Wonderland's War",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "300",
+        "Time": "125"
+    },
+    {
+        "Name": "Secret Hitler",
+        "Type": "partygames",
+        "Minplayer": "5",
+        "Maxplayer": "10",
+        "Weight": "174",
+        "Time": "45"
+    },
+    {
+        "Name": "Aeon's End: Legacy",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "286",
+        "Time": "90"
+    },
+    {
+        "Name": "Legendary: A Marvel Deck Building Game",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "243",
+        "Time": "60"
+    },
+    {
+        "Name": "The Taverns of Tiefenthal",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "267",
+        "Time": "60"
+    },
+    {
+        "Name": "MicroMacro: Crime City",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "111",
+        "Time": "45"
+    },
+    {
+        "Name": "Deception: Murder in Hong Kong",
+        "Type": "partygames",
+        "Minplayer": "4",
+        "Maxplayer": "12",
+        "Weight": "158",
+        "Time": "20"
+    },
+    {
+        "Name": "Century: Golem Edition",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "168",
+        "Time": "45"
+    },
+    {
+        "Name": "Zombicide: Black Plague",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "249",
+        "Time": "180"
+    },
+    {
+        "Name": "Hanamikoji",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "169",
+        "Time": "15"
+    },
+    {
+        "Name": "Planet Unknown",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "222",
+        "Time": "80"
+    },
+    {
+        "Name": "Roll Player",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "243",
+        "Time": "90"
+    },
+    {
+        "Name": "Detective: A Modern Crime Board Game",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "275",
+        "Time": "180"
+    },
+    {
+        "Name": "Kanban: Driver's Edition",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "437",
+        "Time": "120"
+    },
+    {
+        "Name": "Flamme Rouge",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "168",
+        "Time": "45"
+    },
+    {
+        "Name": "The Princes of Florence",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "324",
+        "Time": "100"
+    },
+    {
+        "Name": "Sushi Go Party!",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "131",
+        "Time": "20"
+    },
+    {
+        "Name": "Goa: A New Expedition",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "337",
+        "Time": "90"
+    },
+    {
+        "Name": "Chronicles of Crime",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "206",
+        "Time": "90"
+    },
+    {
+        "Name": "Unmatched: Battle of Legends, Volume One",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "193",
+        "Time": "40"
+    },
+    {
+        "Name": "Santorini",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "173",
+        "Time": "20"
+    },
+    {
+        "Name": "Fantasy Realms",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "179",
+        "Time": "20"
+    },
+    {
+        "Name": "Oathsworn: Into the Deepwood",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "356",
+        "Time": "90"
+    },
+    {
+        "Name": "Isle of Skye: From Chieftain to King",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "225",
+        "Time": "50"
+    },
+    {
+        "Name": "Glory to Rome",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "293",
+        "Time": "60"
+    },
+    {
+        "Name": "KLASK",
+        "Type": "partygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "106",
+        "Time": "10"
+    },
+    {
+        "Name": "Pulsar 2849",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "335",
+        "Time": "90"
+    },
+    {
+        "Name": "Hero Realms",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "186",
+        "Time": "20"
+    },
+    {
+        "Name": "Hallertau",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "330",
+        "Time": "140"
+    },
+    {
+        "Name": "1830: Railways & Robber Barons",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "7",
+        "Weight": "416",
+        "Time": "360"
+    },
+    {
+        "Name": "Shogun",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "336",
+        "Time": "120"
+    },
+    {
+        "Name": "Samurai",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "248",
+        "Time": "60"
+    },
+    {
+        "Name": "Galaxy Trucker",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "233",
+        "Time": "60"
+    },
+    {
+        "Name": "Revive",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "341",
+        "Time": "120"
+    },
+    {
+        "Name": "1960: The Making of the President",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "320",
+        "Time": "120"
+    },
+    {
+        "Name": "Camel Up (Second Edition)",
+        "Type": "partygames",
+        "Minplayer": "3",
+        "Maxplayer": "8",
+        "Weight": "146",
+        "Time": "45"
+    },
+    {
+        "Name": "Clank!: Catacombs",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "253",
+        "Time": "90"
+    },
+    {
+        "Name": "Darwin's Journey",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "384",
+        "Time": "120"
+    },
+    {
+        "Name": "T.I.M.E Stories",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "260",
+        "Time": "90"
+    },
+    {
+        "Name": "Steam",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "346",
+        "Time": "90"
+    },
+    {
+        "Name": "Viticulture",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "293",
+        "Time": "90"
+    },
+    {
+        "Name": "Vindication",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "308",
+        "Time": "150"
+    },
+    {
+        "Name": "Western Legends",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "283",
+        "Time": "90"
+    },
+    {
+        "Name": "Endless Winter: Paleoamericans",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "328",
+        "Time": "120"
+    },
+    {
+        "Name": "Tapestry",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "293",
+        "Time": "120"
+    },
+    {
+        "Name": "Lewis & Clark: The Expedition",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "333",
+        "Time": "120"
+    },
+    {
+        "Name": "Clash of Cultures: Monumental Edition",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "365",
+        "Time": "240"
+    },
+    {
+        "Name": "Bora Bora",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "373",
+        "Time": "120"
+    },
+    {
+        "Name": "Arcadia Quest",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "253",
+        "Time": "60"
+    },
+    {
+        "Name": "7 Wonders (Second Edition)",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "7",
+        "Weight": "229",
+        "Time": "30"
+    },
+    {
+        "Name": "Kingdomino",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "122",
+        "Time": "25"
+    },
+    {
+        "Name": "Battle Line",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "189",
+        "Time": "30"
+    },
+    {
+        "Name": "Rococo",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "308",
+        "Time": "120"
+    },
+    {
+        "Name": "Forgotten Waters",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "7",
+        "Weight": "211",
+        "Time": "240"
+    },
+    {
+        "Name": "Seasons",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "278",
+        "Time": "60"
+    },
+    {
+        "Name": "Dixit: Odyssey",
+        "Type": "partygames",
+        "Minplayer": "3",
+        "Maxplayer": "12",
+        "Weight": "117",
+        "Time": "30"
+    },
+    {
+        "Name": "Ethnos",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "203",
+        "Time": "60"
+    },
+    {
+        "Name": "Anno 1800",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "315",
+        "Time": "120"
+    },
+    {
+        "Name": "The Manhattan Project: Energy Empire",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "304",
+        "Time": "120"
+    },
+    {
+        "Name": "Cryptid",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "223",
+        "Time": "50"
+    },
+    {
+        "Name": "Imperial",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "356",
+        "Time": "180"
+    },
+    {
+        "Name": "Hive",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "232",
+        "Time": "20"
+    },
+    {
+        "Name": "Power Grid Deluxe: Europe/North America",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "320",
+        "Time": "120"
+    },
+    {
+        "Name": "Navegador",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "309",
+        "Time": "90"
+    },
+    {
+        "Name": "Indonesia",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "399",
+        "Time": "240"
+    },
+    {
+        "Name": "Dungeon Petz",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "363",
+        "Time": "90"
+    },
+    {
+        "Name": "Marvel United",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "182",
+        "Time": "40"
+    },
+    {
+        "Name": "Cthulhu Wars",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "315",
+        "Time": "120"
+    },
+    {
+        "Name": "Dice Throne: Season Two \u2013 Battle Chest",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "214",
+        "Time": "40"
+    },
+    {
+        "Name": "Star Realms: Frontiers",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "186",
+        "Time": "45"
+    },
+    {
+        "Name": "Age of Empires III: The Age of Discovery",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "313",
+        "Time": "120"
+    },
+    {
+        "Name": "Monikers",
+        "Type": "partygames",
+        "Minplayer": "4",
+        "Maxplayer": "16",
+        "Weight": "108",
+        "Time": "60"
+    },
+    {
+        "Name": "Blood on the Clocktower",
+        "Type": "partygames",
+        "Minplayer": "5",
+        "Maxplayer": "20",
+        "Weight": "294",
+        "Time": "120"
+    },
+    {
+        "Name": "Telestrations",
+        "Type": "partygames",
+        "Minplayer": "4",
+        "Maxplayer": "8",
+        "Weight": "107",
+        "Time": "30"
+    },
+    {
+        "Name": "Space Alert",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "297",
+        "Time": "30"
+    },
+    {
+        "Name": "Onitama",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "166",
+        "Time": "20"
+    },
+    {
+        "Name": "Nemo's War (Second Edition)",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "327",
+        "Time": "120"
+    },
+    {
+        "Name": "Imperial Settlers",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "277",
+        "Time": "90"
+    },
+    {
+        "Name": "Fury of Dracula (Third/Fourth Edition)",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "328",
+        "Time": "180"
+    },
+    {
+        "Name": "Glass Road",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "295",
+        "Time": "80"
+    },
+    {
+        "Name": "Oath: Chronicles of Empire and Exile",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "409",
+        "Time": "150"
+    },
+    {
+        "Name": "Great Western Trail: Argentina",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "389",
+        "Time": "150"
+    },
+    {
+        "Name": "Summoner Wars: Master Set",
+        "Type": "cgs",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "252",
+        "Time": "60"
+    },
+    {
+        "Name": "Imperial 2030",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "350",
+        "Time": "180"
+    },
+    {
+        "Name": "Bitoku",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "373",
+        "Time": "120"
+    },
+    {
+        "Name": "Runewars",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "379",
+        "Time": "240"
+    },
+    {
+        "Name": "Aeon's End: The New Age",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "293",
+        "Time": "60"
+    },
+    {
+        "Name": "Alien Frontiers",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "257",
+        "Time": "90"
+    },
+    {
+        "Name": "Return to Dark Tower",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "263",
+        "Time": "120"
+    },
+    {
+        "Name": "Arkham Horror (Third Edition)",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "334",
+        "Time": "180"
+    },
+    {
+        "Name": "Century: Spice Road",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "179",
+        "Time": "45"
+    },
+    {
+        "Name": "Heaven & Ale",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "321",
+        "Time": "90"
+    },
+    {
+        "Name": "Kemet: Blood and Sand",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "323",
+        "Time": "120"
+    },
+    {
+        "Name": "Tikal",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "278",
+        "Time": "90"
+    },
+    {
+        "Name": "The King's Dilemma",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "224",
+        "Time": "60"
+    },
+    {
+        "Name": "Bruges",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "275",
+        "Time": "60"
+    },
+    {
+        "Name": "Survive: Escape from Atlantis!",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "170",
+        "Time": "60"
+    },
+    {
+        "Name": "Antiquity",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "432",
+        "Time": "180"
+    },
+    {
+        "Name": "Exit: The Game \u2013 The Abandoned Cabin",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "255",
+        "Time": "120"
+    },
+    {
+        "Name": "Tiny Epic Galaxies",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "215",
+        "Time": "45"
+    },
+    {
+        "Name": "Love Letter",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "119",
+        "Time": "20"
+    },
+    {
+        "Name": "For Sale",
+        "Type": "familygamess",
+        "Minplayer": "3",
+        "Maxplayer": "6",
+        "Weight": "125",
+        "Time": "30"
+    },
+    {
+        "Name": "Bunny Kingdom",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "231",
+        "Time": "60"
+    },
+    {
+        "Name": "Lost Cities",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "148",
+        "Time": "30"
+    },
+    {
+        "Name": "Burgle Bros.",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "231",
+        "Time": "90"
+    },
+    {
+        "Name": "Destinies",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "3",
+        "Weight": "190",
+        "Time": "150"
+    },
+    {
+        "Name": "Acquire",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "250",
+        "Time": "90"
+    },
+    {
+        "Name": "Dead of Winter: The Long Night",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "336",
+        "Time": "120"
+    },
+    {
+        "Name": "Awkward Guests: The Walton Case",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "8",
+        "Weight": "232",
+        "Time": "75"
+    },
+    {
+        "Name": "Above and Below",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "252",
+        "Time": "90"
+    },
+    {
+        "Name": "Small World",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "235",
+        "Time": "80"
+    },
+    {
+        "Name": "The Great Zimbabwe",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "369",
+        "Time": "150"
+    },
+    {
+        "Name": "Lords of Hellas",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "334",
+        "Time": "90"
+    },
+    {
+        "Name": "Arboretum",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "214",
+        "Time": "30"
+    },
+    {
+        "Name": "Bonfire",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "364",
+        "Time": "100"
+    },
+    {
+        "Name": "Nusfjord",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "284",
+        "Time": "100"
+    },
+    {
+        "Name": "Mind MGMT: The Psychic Espionage \u201cGame.\u201d",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "290",
+        "Time": "75"
+    },
+    {
+        "Name": "Merchants & Marauders",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "325",
+        "Time": "180"
+    },
+    {
+        "Name": "Tekhenu: Obelisk of the Sun",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "406",
+        "Time": "120"
+    },
+    {
+        "Name": "Dungeon Lords",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "357",
+        "Time": "90"
+    },
+    {
+        "Name": "Long Shot: The Dice Game",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "8",
+        "Weight": "192",
+        "Time": "25"
+    },
+    {
+        "Name": "BattleLore: Second Edition",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "270",
+        "Time": "90"
+    },
+    {
+        "Name": "Neuroshima Hex! 3.0",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "261",
+        "Time": "30"
+    },
+    {
+        "Name": "B\u00e4renpark",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "166",
+        "Time": "45"
+    },
+    {
+        "Name": "Sid Meier's Civilization: The Board Game",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "390",
+        "Time": "240"
+    },
+    {
+        "Name": "Mission: Red Planet (Second Edition)",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "221",
+        "Time": "90"
+    },
+    {
+        "Name": "The King Is Dead: Second Edition",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "212",
+        "Time": "45"
+    },
+    {
+        "Name": "Letters from Whitechapel",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "265",
+        "Time": "90"
+    },
+    {
+        "Name": "Chinatown",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "225",
+        "Time": "60"
+    },
+    {
+        "Name": "Dixit",
+        "Type": "partygames",
+        "Minplayer": "3",
+        "Maxplayer": "8",
+        "Weight": "120",
+        "Time": "30"
+    },
+    {
+        "Name": "Mysterium",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "7",
+        "Weight": "190",
+        "Time": "42"
+    },
+    {
+        "Name": "Harry Potter: Hogwarts Battle",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "207",
+        "Time": "60"
+    },
+    {
+        "Name": "Takenoko",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "198",
+        "Time": "45"
+    },
+    {
+        "Name": "Takenoko",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "198",
+        "Time": "45"
+    },
+    {
+        "Name": "Star Wars: Armada",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "316",
+        "Time": "120"
+    },
+    {
+        "Name": "Hannibal: Rome vs. Carthage",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "345",
+        "Time": "200"
+    },
+    {
+        "Name": "Innovation",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "276",
+        "Time": "60"
+    },
+    {
+        "Name": "Ghost Stories",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "291",
+        "Time": "60"
+    },
+    {
+        "Name": "Agricola: All Creatures Big and Small",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "235",
+        "Time": "30"
+    },
+    {
+        "Name": "The Resistance",
+        "Type": "partygames",
+        "Minplayer": "5",
+        "Maxplayer": "10",
+        "Weight": "159",
+        "Time": "30"
+    },
+    {
+        "Name": "51st State: Master Set",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "290",
+        "Time": "90"
+    },
+    {
+        "Name": "Gizmos",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "201",
+        "Time": "50"
+    },
+    {
+        "Name": "Altiplano",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "330",
+        "Time": "120"
+    },
+    {
+        "Name": "Imperium: Classics",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "356",
+        "Time": "120"
+    },
+    {
+        "Name": "Tiletum",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "341",
+        "Time": "100"
+    },
+    {
+        "Name": "Skull King",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "169",
+        "Time": "30"
+    },
+    {
+        "Name": "Mage Wars Arena",
+        "Type": "cgs",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "368",
+        "Time": "90"
+    },
+    {
+        "Name": "Raiders of Scythia",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "272",
+        "Time": "80"
+    },
+    {
+        "Name": "San Juan",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "229",
+        "Time": "60"
+    },
+    {
+        "Name": "Blood Bowl: Team Manager \u2013 The Card Game",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "233",
+        "Time": "120"
+    },
+    {
+        "Name": "Newton",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "339",
+        "Time": "90"
+    },
+    {
+        "Name": "Furnace",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "227",
+        "Time": "60"
+    },
+    {
+        "Name": "Notre Dame",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "274",
+        "Time": "75"
+    },
+    {
+        "Name": "Carpe Diem",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "251",
+        "Time": "75"
+    },
+    {
+        "Name": "Love Letter",
+        "Type": "partygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "114",
+        "Time": "20"
+    },
+    {
+        "Name": "G\u00f9g\u014dng",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "308",
+        "Time": "90"
+    },
+    {
+        "Name": "Hegemony: Lead Your Class to Victory",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "411",
+        "Time": "180"
+    },
+    {
+        "Name": "The Pillars of the Earth",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "282",
+        "Time": "120"
+    },
+    {
+        "Name": "Abyss",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "232",
+        "Time": "60"
+    },
+    {
+        "Name": "At the Gates of Loyang",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "312",
+        "Time": "120"
+    },
+    {
+        "Name": "So Clover!",
+        "Type": "partygames",
+        "Minplayer": "3",
+        "Maxplayer": "6",
+        "Weight": "110",
+        "Time": "30"
+    },
+    {
+        "Name": "Cloudspire",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "436",
+        "Time": "180"
+    },
+    {
+        "Name": "Twice as Clever!",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "230",
+        "Time": "30"
+    },
+    {
+        "Name": "Pandemic: Fall of Rome",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "243",
+        "Time": "60"
+    },
+    {
+        "Name": "Flamecraft",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "219",
+        "Time": "60"
+    },
+    {
+        "Name": "Maria",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "3",
+        "Weight": "356",
+        "Time": "210"
+    },
+    {
+        "Name": "Saint Petersburg",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "246",
+        "Time": "60"
+    },
+    {
+        "Name": "Evolution: Climate",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "275",
+        "Time": "60"
+    },
+    {
+        "Name": "The Godfather: Corleone's Empire",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "263",
+        "Time": "90"
+    },
+    {
+        "Name": "Downforce",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "173",
+        "Time": "40"
+    },
+    {
+        "Name": "Die Macher",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "432",
+        "Time": "240"
+    },
+    {
+        "Name": "Sidereal Confluence",
+        "Type": "strategygames",
+        "Minplayer": "4",
+        "Maxplayer": "9",
+        "Weight": "353",
+        "Time": "180"
+    },
+    {
+        "Name": "Endeavor",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "291",
+        "Time": "90"
+    },
+    {
+        "Name": "Here I Stand",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "418",
+        "Time": "360"
+    },
+    {
+        "Name": "Schotten Totten",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "170",
+        "Time": "20"
+    },
+    {
+        "Name": "Ticket to Ride: M\u00e4rklin",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "224",
+        "Time": "60"
+    },
+    {
+        "Name": "King of Tokyo",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "149",
+        "Time": "30"
+    },
+    {
+        "Name": "Smartphone Inc.",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "275",
+        "Time": "90"
+    },
+    {
+        "Name": "Bruxelles 1893",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "359",
+        "Time": "125"
+    },
+    {
+        "Name": "In the Year of the Dragon",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "309",
+        "Time": "100"
+    },
+    {
+        "Name": "Azul: Stained Glass of Sintra",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "200",
+        "Time": "45"
+    },
+    {
+        "Name": "Tiny Towns",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "207",
+        "Time": "60"
+    },
+    {
+        "Name": "London (Second Edition)",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "273",
+        "Time": "90"
+    },
+    {
+        "Name": "San Juan (Second Edition)",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "208",
+        "Time": "60"
+    },
+    {
+        "Name": "Summoner Wars (Second Edition)",
+        "Type": "cgs",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "259",
+        "Time": "60"
+    },
+    {
+        "Name": "Project L",
+        "Type": "abstracts",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "156",
+        "Time": "40"
+    },
+    {
+        "Name": "Arkham Horror",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "8",
+        "Weight": "358",
+        "Time": "240"
+    },
+    {
+        "Name": "Civilization",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "7",
+        "Weight": "365",
+        "Time": "360"
+    },
+    {
+        "Name": "Star Wars: The Deckbuilding Game",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "201",
+        "Time": "30"
+    },
+    {
+        "Name": "Dice Forge",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "197",
+        "Time": "45"
+    },
+    {
+        "Name": "Codenames: Pictures",
+        "Type": "partygames",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "124",
+        "Time": "15"
+    },
+    {
+        "Name": "Nippon",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "378",
+        "Time": "120"
+    },
+    {
+        "Name": "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "8",
+        "Weight": "219",
+        "Time": "120"
+    },
+    {
+        "Name": "Sword & Sorcery",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "411",
+        "Time": "90"
+    },
+    {
+        "Name": "Sprawlopolis",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "184",
+        "Time": "20"
+    },
+    {
+        "Name": "Skull",
+        "Type": "partygames",
+        "Minplayer": "3",
+        "Maxplayer": "6",
+        "Weight": "112",
+        "Time": "45"
+    },
+    {
+        "Name": "Firefly: The Game",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "295",
+        "Time": "240"
+    },
+    {
+        "Name": "Clash of Cultures",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "360",
+        "Time": "240"
+    },
+    {
+        "Name": "Space Hulk (Third Edition)",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "279",
+        "Time": "60"
+    },
+    {
+        "Name": "Santa Maria",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "304",
+        "Time": "90"
+    },
+    {
+        "Name": "Unmatched: Robin Hood vs. Bigfoot",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "193",
+        "Time": "20"
+    },
+    {
+        "Name": "Blitzkrieg!: World War Two in 20 Minutes",
+        "Type": "wargames",
+        "Minplayer": "1",
+        "Maxplayer": "2",
+        "Weight": "192",
+        "Time": "45"
+    },
+    {
+        "Name": "Stockpile",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "211",
+        "Time": "45"
+    },
+    {
+        "Name": "Spartacus: A Game of Blood and Treachery",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "4",
+        "Weight": "273",
+        "Time": "180"
+    },
+    {
+        "Name": "Mythic Battles: Pantheon",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "303",
+        "Time": "90"
+    },
+    {
+        "Name": "Fresco",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "263",
+        "Time": "60"
+    },
+    {
+        "Name": "Macao",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "313",
+        "Time": "100"
+    },
+    {
+        "Name": "Cubitos",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "220",
+        "Time": "60"
+    },
+    {
+        "Name": "Dune",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "344",
+        "Time": "180"
+    },
+    {
+        "Name": "Claustrophobia",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "248",
+        "Time": "45"
+    },
+    {
+        "Name": "Advanced Squad Leader",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "474",
+        "Time": "480"
+    },
+    {
+        "Name": "Biblios",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "168",
+        "Time": "30"
+    },
+    {
+        "Name": "Thunderstone Quest",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "284",
+        "Time": "90"
+    },
+    {
+        "Name": "Mice and Mystics",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "272",
+        "Time": "90"
+    },
+    {
+        "Name": "King of Tokyo: Dark Edition",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "163",
+        "Time": "30"
+    },
+    {
+        "Name": "The Manhattan Project",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "296",
+        "Time": "120"
+    },
+    {
+        "Name": "ISS Vanguard",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "362",
+        "Time": "120"
+    },
+    {
+        "Name": "Flash Point: Fire Rescue",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "220",
+        "Time": "45"
+    },
+    {
+        "Name": "Wavelength",
+        "Type": "partygames",
+        "Minplayer": "2",
+        "Maxplayer": "12",
+        "Weight": "112",
+        "Time": "45"
+    },
+    {
+        "Name": "Chess",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "366",
+        "Time": "0"
+    },
+    {
+        "Name": "Millennium Blades",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "366",
+        "Time": "120"
+    },
+    {
+        "Name": "Kingsburg",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "242",
+        "Time": "90"
+    },
+    {
+        "Name": "Imperial Settlers: Empires of the North",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "281",
+        "Time": "90"
+    },
+    {
+        "Name": "Pipeline",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "391",
+        "Time": "120"
+    },
+    {
+        "Name": "Glen More",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "266",
+        "Time": "70"
+    },
+    {
+        "Name": "Marvel United: X-Men",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "200",
+        "Time": "40"
+    },
+    {
+        "Name": "Heroscape Master Set: Rise of the Valkyrie",
+        "Type": "cgs",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "230",
+        "Time": "90"
+    },
+    {
+        "Name": "Lancaster",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "301",
+        "Time": "60"
+    },
+    {
+        "Name": "A Few Acres of Snow",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "304",
+        "Time": "90"
+    },
+    {
+        "Name": "Lord of the Rings: The Confrontation",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "220",
+        "Time": "30"
+    },
+    {
+        "Name": "Turing Machine",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "240",
+        "Time": "20"
+    },
+    {
+        "Name": "Pandemic: Reign of Cthulhu",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "216",
+        "Time": "40"
+    },
+    {
+        "Name": "Boonlake",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "380",
+        "Time": "160"
+    },
+    {
+        "Name": "Mandala",
+        "Type": "abstracts",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "181",
+        "Time": "20"
+    },
+    {
+        "Name": "Black Orchestra",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "241",
+        "Time": "90"
+    },
+    {
+        "Name": "Quadropolis",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "220",
+        "Time": "60"
+    },
+    {
+        "Name": "Point Salad",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "115",
+        "Time": "30"
+    },
+    {
+        "Name": "PitchCar",
+        "Type": "partygames",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "113",
+        "Time": "30"
+    },
+    {
+        "Name": "Middara: Unintentional Malum \u2013 Act 1",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "409",
+        "Time": "60"
+    },
+    {
+        "Name": "Mystic Vale",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "226",
+        "Time": "45"
+    },
+    {
+        "Name": "Honey Buzz",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "276",
+        "Time": "90"
+    },
+    {
+        "Name": "Cat in the Box: Deluxe Edition",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "200",
+        "Time": "40"
+    },
+    {
+        "Name": "Amerigo",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "298",
+        "Time": "90"
+    },
+    {
+        "Name": "Mindbug: First Contact",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "193",
+        "Time": "25"
+    },
+    {
+        "Name": "Commands & Colors: Napoleonics",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "273",
+        "Time": "90"
+    },
+    {
+        "Name": "Stuffed Fables",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "245",
+        "Time": "90"
+    },
+    {
+        "Name": "Amun-Re",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "303",
+        "Time": "90"
+    },
+    {
+        "Name": "Hadara",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "220",
+        "Time": "60"
+    },
+    {
+        "Name": "BattleLore",
+        "Type": "wargames",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "277",
+        "Time": "60"
+    },
+    {
+        "Name": "Charterstone",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "6",
+        "Weight": "284",
+        "Time": "75"
+    },
+    {
+        "Name": "Pandemic: The Cure",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "206",
+        "Time": "30"
+    },
+    {
+        "Name": "Colt Express",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "6",
+        "Weight": "183",
+        "Time": "40"
+    },
+    {
+        "Name": "Exit: The Game \u2013 Dead Man on the Orient Express",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "273",
+        "Time": "120"
+    },
+    {
+        "Name": "Fire in the Lake",
+        "Type": "wargames",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "413",
+        "Time": "180"
+    },
+    {
+        "Name": "Citadels",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "203",
+        "Time": "60"
+    },
+    {
+        "Name": "Risk Legacy",
+        "Type": "strategygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "259",
+        "Time": "60"
+    },
+    {
+        "Name": "Cartographers Heroes",
+        "Type": "strategygames",
+        "Minplayer": "1",
+        "Maxplayer": "100",
+        "Weight": "207",
+        "Time": "45"
+    },
+    {
+        "Name": "Canvas",
+        "Type": "familygamess",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "164",
+        "Time": "30"
+    },
+    {
+        "Name": "No Thanks!",
+        "Type": "familygamess",
+        "Minplayer": "3",
+        "Maxplayer": "7",
+        "Weight": "113",
+        "Time": "20"
+    },
+    {
+        "Name": "Citadels",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "8",
+        "Weight": "205",
+        "Time": "60"
+    },
+    {
+        "Name": "Sheriff of Nottingham",
+        "Type": "partygames",
+        "Minplayer": "3",
+        "Maxplayer": "5",
+        "Weight": "165",
+        "Time": "60"
+    },
+    {
+        "Name": "Shadows of Brimstone: City of the Ancients",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "4",
+        "Weight": "335",
+        "Time": "120"
+    },
+    {
+        "Name": "Deus",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "283",
+        "Time": "90"
+    },
+    {
+        "Name": "Forbidden Desert",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "204",
+        "Time": "45"
+    },
+    {
+        "Name": "Oceans",
+        "Type": "strategygames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "288",
+        "Time": "90"
+    },
+    {
+        "Name": "Blood Bowl: Living Rulebook",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "317",
+        "Time": "120"
+    },
+    {
+        "Name": "Mansions of Madness",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "325",
+        "Time": "180"
+    },
+    {
+        "Name": "Blood Bowl (Third Edition)",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "2",
+        "Weight": "298",
+        "Time": "180"
+    },
+    {
+        "Name": "Dawn of the Zeds (Third Edition)",
+        "Type": "thematic",
+        "Minplayer": "1",
+        "Maxplayer": "5",
+        "Weight": "382",
+        "Time": "120"
+    },
+    {
+        "Name": "Descent: Journeys in the Dark",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "334",
+        "Time": "240"
+    },
+    {
+        "Name": "Lords of Vegas",
+        "Type": "thematic",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "234",
+        "Time": "90"
+    },
+    {
+        "Name": "Shadows over Camelot",
+        "Type": "thematic",
+        "Minplayer": "3",
+        "Maxplayer": "7",
+        "Weight": "257",
+        "Time": "90"
+    },
+    {
+        "Name": "Zombie Kidz Evolution",
+        "Type": "childrensgames",
+        "Minplayer": "2",
+        "Maxplayer": "4",
+        "Weight": "139",
+        "Time": "15"
+    },
+    {
+        "Name": "Hanabi",
+        "Type": "familygamess",
+        "Minplayer": "2",
+        "Maxplayer": "5",
+        "Weight": "169",
+        "Time": "25"
+    }
+]

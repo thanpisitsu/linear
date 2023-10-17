@@ -21,13 +21,13 @@ headers = {
 }
 creds = None
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
-creds_file = 'stoked-woods-400307-ca98d32d3085.json'  # Replace with your credentials JSON file
+creds_file = 'stoked-woods-400307-ca98d32d3085.json'
 if os.path.exists(creds_file):
     creds = service_account.Credentials.from_service_account_file(creds_file, scopes=SCOPES)
 service = build('sheets', 'v4', credentials=creds)
 spreadsheet_id = '1ixexWYv2zIZn0Fc0RfIXhY7rGn5UsolaFWCKRA8isJc'
 
-f=435
+f=1
 datasheet = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range=f'boardgamerank!A{f}:B500').execute()['values']
 list=[]
 
