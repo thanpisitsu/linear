@@ -10,7 +10,7 @@ def get_font(size):
     return pygame.font.SysFont("8-bit Madness",size)
 
 display = pygame.display.set_mode((WIDTH, HEIGHT),pygame.FULLSCREEN)
-menu_items = ["strategygames", "thematic", "wargames",'cgs','abstracts','familygamess','partygames','childrensgames']
+menu_items = ["strategygames", "thematic", "wargames",'cgs','abstracts','familygamess','partygames','childrensgames','cancel']
 gametype = ''
 dropstart = 320
 clicking = ''
@@ -24,7 +24,7 @@ def draw_dropdown():
         text = get_font(30).render(gametype, True, '#000000')
         display.blit(text, (dropstart+10, 380))
     else:
-        text = get_font(30).render("Select an option", True, '#000000')
+        text = get_font(30).render("Select option", True, '#000000')
         display.blit(text, (dropstart+10, 380))
 
 def draw_menu():
@@ -33,6 +33,7 @@ def draw_menu():
         pygame.draw.rect(display, '#ffffff', (dropstart, y, 250, 40))
         pygame.draw.rect(display, '#000000', (dropstart, y, 250, 40), 1)
         text = get_font(30).render(item, True, '#000000')
+        if i == len(menu_items)-1 : text = get_font(30).render(item, True, '#ff0000')
         display.blit(text, (dropstart +10, y + 10))
 
 def draw_numplay(num) :
@@ -66,9 +67,10 @@ def draw_time(time) :
 
 def show_boardgame(boardgames):
     for i in range(len(boardgames)):
-        pygame.draw.rect(display, '#000000', (600, 280+i*50, 250, 40), 1)
-        type = get_font(30).render(f'{i} {boardgames[i]["Name"]}', True, '#000000')
-        display.blit(type, (600, 290+i*50))
+        name = get_font(30).render(f'{i+1}    {boardgames[i]["Name"]}', True, '#000000')
+        display.blit(name, (700, 100+i*70))
+        detail = get_font(25).render(f'Type : {boardgames[i]["Type"]}  Weight : {int(boardgames[i]["Weight"])/50}  Players : {boardgames[i]["Minplayer"]} - {boardgames[i]["Maxplayer"]}  Playtime : {boardgames[i]["Time"]} ', True, '#000000')
+        display.blit(detail, (720, 125+i*70))
 
 
 def main():
@@ -97,9 +99,13 @@ def main():
                     menu_open = not menu_open
                 elif menu_open and 300 <= event.pos[0] <= 490:
                     item_index = (event.pos[1] - 410) // 40
-                    if 0 <= item_index < len(menu_items):
+                    if 0 <= item_index < len(menu_items)-1:
                         gametype = menu_items[item_index]
                         menu_open = False
+                    else :
+                        menu_open = False
+                        gametype = ''
+
                 elif 300 <= event.pos[0] <= 490 and 100 <= event.pos[1] <= 140:
                     clicking = 'num'
                 elif 300 <= event.pos[0] <= 490 and 190 <= event.pos[1] <= 230:
@@ -140,15 +146,11 @@ def main():
         display.blit(type, (160, 480))
 
         draw_time(time)
-
         draw_numplay(numplay)
-
         draw_weight(weight)
-
         draw_dropdown()
         if menu_open:
             draw_menu()
-        
         show_boardgame(boardgames)
 
         pygame.display.flip()
