@@ -1,6 +1,5 @@
 import json
 import math
-from bs4 import BeautifulSoup
 
 with open('databoardgame.json', 'r') as file :
     datasheet = json.load(file)
