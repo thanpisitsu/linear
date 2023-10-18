@@ -15,7 +15,7 @@ if os.path.exists(creds_file):
 service = build('sheets', 'v4', credentials=creds)
 spreadsheet_id = '1ixexWYv2zIZn0Fc0RfIXhY7rGn5UsolaFWCKRA8isJc'
 boardgamename = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range=f'user!B1:SG1').execute()['values']
-userdata = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range=f'cov!A1:SG400').execute()['values']
+userdata = service.spreadsheets().values().get(spreadsheetId=spreadsheet_id, range=f'cov!A1:SG500').execute()['values']
 with open('datacov.json', 'w') as file:
     json.dump(boardgamename+userdata, file, indent=4)
 

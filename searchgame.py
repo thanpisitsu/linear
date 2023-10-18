@@ -28,8 +28,7 @@ def find_boardgame(player,weight,time,style) :
         # sizeu = math.sqrt(u0**2+v0**2)
         # sizev = math.sqrt(u1**2+v1**2)
         # cosine = math.acos(udotv/sizeu/sizev)
-        a = (u0-v0)**2+(u1-v1)**2
-        euclidean = math.sqrt(a)
+        euclidean = math.sqrt((u0-v0)**2+(u1-v1)**2)
         i['Euclidean'] = euclidean
         presentboardgame.append(i)
 
