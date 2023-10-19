@@ -63,6 +63,8 @@ for i in datasheet :
         data = [[game_title,game_type,float(game_weight)*100,int(game_minplayer),int(game_maxplayer),int(game_playtime)]]
         print(data)
 
-        request = service.spreadsheets().values().update(spreadsheetId=spreadsheet_id, range=f'boardgame!A{f+1}:F{f+1}', valueInputOption="RAW", body={"values": data})
+        request = service.spreadsheets().values().update(spreadsheetId=spreadsheet_id
+        , range=f'boardgame!A{f+1}:F{f+1}', valueInputOption="RAW", body={"values": data})
         response = request.execute()
+        
         f+=1
