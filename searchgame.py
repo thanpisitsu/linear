@@ -24,10 +24,6 @@ def find_boardgame(player,weight,time,style) :
         t = int(i['Time']) if time == '' else int(time)
         u0,v0 = w,int(i['Weight'])
         u1,v1 = t,int(i['Time'])
-        # udotv = u0*u1+v0*v1
-        # sizeu = math.sqrt(u0**2+v0**2)
-        # sizev = math.sqrt(u1**2+v1**2)
-        # cosine = math.acos(udotv/sizeu/sizev)
         euclidean = math.sqrt((u0-v0)**2+(u1-v1)**2)
         i['Euclidean'] = euclidean
         presentboardgame.append(i)
