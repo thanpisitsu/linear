@@ -43,7 +43,6 @@ for i in datasheet :
     keyplaytime = '"maxplaytime":"'
     keytype = '"subdomain":"'
     datastat = str(soup)
-    print(i)
     error = soup.find('div',class_='messagebox error')
     if not error :
         game_title = soup.find("meta", property="og:title")["content"]
